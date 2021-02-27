@@ -2,7 +2,7 @@ package com.surguchev;
 
 //Найти количество счастливых билетиков на трамвай от 000001 до 999999 (те у которых сумма первых 3 цифр равна сумме последних 3)
 
-public class task_02 {
+public class Task_02 {
 
     public static final int minNumberTickets = 1;
     public static final int maxNumberTickets = 999999;
